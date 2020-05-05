@@ -17,3 +17,9 @@ And to run in `--watch` mode:
 ```sh
 npm run type-check:watch
 ```
+
+Develop
+
+```sh
+yarn dev
+```

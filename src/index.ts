@@ -1,15 +1,18 @@
 import bodyParser from "body-parser";
-const cors = require("cors");
-const express = require("express");
-const graphqlExpress = require("graphql-server-express").graphqlExpress;
-const graphiqlExpress = require("graphql-server-express").graphiqlExpress;
+import cors from "cors";
+import express from "express";
+import { graphqlExpress } from "graphql-server-express";
+import { graphiqlExpress } from "graphql-server-express";
 
 import schema from "./schema";
 
-const GraphQLServer = express().use("*", cors());
+const GraphQLServer = express();
+GraphQLServer.use("*", cors());
 
 // basic health route, ping /health to determine server health
 GraphQLServer.get("/health", (req, res) => {
+  console.log(req);
+  console.log(res);
   res.sendStatus(200);
 });
 
