@@ -1,10 +1,10 @@
-const bodyParser = require("body-parser");
+import bodyParser from "body-parser";
 const cors = require("cors");
 const express = require("express");
 const graphqlExpress = require("graphql-server-express").graphqlExpress;
 const graphiqlExpress = require("graphql-server-express").graphiqlExpress;
 
-const schema = require("./Schema").schema;
+import schema from "./schema";
 
 const GraphQLServer = express().use("*", cors());
 

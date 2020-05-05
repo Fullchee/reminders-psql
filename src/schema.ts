@@ -1,6 +1,5 @@
 import dotenv from "dotenv";
 dotenv.config();
-const GraphQLSchema = require("graphql").GraphQLSchema;
 const makeExecutableSchema = require("graphql-tools").makeExecutableSchema;
 
 const resolver = require("./resolver").resolver; // our resolver from resolver.js
@@ -18,7 +17,7 @@ const typeDefs = `
   }
 `;
 
-exports.schema = makeExecutableSchema({
+export default makeExecutableSchema({
   typeDefs,
   resolver,
 });
