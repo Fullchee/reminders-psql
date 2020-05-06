@@ -4,7 +4,7 @@
     "title": "Ask A Monk: Is There a Purpose In Life?",
     "url": "https://www.youtube.com/watch?v=Vs7MsSPSrdI",
     "takeaways": "",
-    "datesAccessed": ["2019-12"],
+    "lastAccessed": "2019-12-01",
     "id": "0"
   },
   {
@@ -12,7 +12,7 @@
     "title": "Malcolm in the Middle: Staying on task",
     "url": "https://youtu.be/AbSehcT19u0",
     "takeaways": "",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "2"
   },
   {
@@ -20,7 +20,7 @@
     "title": "People with addiction are the most evolutionary sensitive\nDrugs hijack those systems\nLike childhood trauma\nhabits served a purpose",
     "url": "https://www.wnycstudios.org/podcasts/radiolab/articles/addiction",
     "takeaways": "",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "3"
   },
   {
@@ -28,7 +28,7 @@
     "title": "Veritasium: Risk taking",
     "url": "https://www.youtube.com/watch?v=vBX-KulgJ1o",
     "takeaways": "",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "4"
   },
   {
@@ -36,7 +36,7 @@
     "title": "Malcolm Gladwell’s 12 rules for life\nPulling the goalie earlier (rational)\nhard to be disagreeable",
     "url": "http://revisionisthistory.com/episodes/27-malcolm-gladwell-s-12-rules-for-life",
     "takeaways": "Pulling the goalie earlier (rational)\n\nUnderstand that it's hard to be disagreeable",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "5"
   },
   {
@@ -45,14 +45,14 @@
     "title": "Revisionist History: Big man can't shoot",
     "url": "https://dcs.megaphone.fm/PP2154689964.mp3?key=1768d4e97a3b41dabca1b49d0a398e52.mp3",
     "takeaways": "Thresholds: Why good ideas don't take hold and spread",
-    "datesAccessed": ["2018-01-14"]
+    "lastAccessed": "2018-01-14"
   },
   {
     "keywords": ["Perspective"],
     "title": "Carlos doesn't remember",
     "url": "http://revisionisthistory.com/episodes/04-carlos-doesnt-remember",
     "takeaways": "",
-    "datesAccessed": ["2017-12-28"],
+    "lastAccessed": "2017-12-28",
     "id": "7"
   },
   {
@@ -60,7 +60,7 @@
     "title": "Generous Orthodoxy",
     "url": "http://revisionisthistory.com/episodes/09-generous-orthodoxy",
     "takeaways": "",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "8"
   },
   {
@@ -68,7 +68,7 @@
     "title": "How to be a man with Bill Withers",
     "url": "https://www.wnycstudios.org/podcasts/deathsexmoney/episodes/how-to-be-a-man-with-bill-withers",
     "takeaways": "",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "9"
   },
   {
@@ -76,7 +76,7 @@
     "title": "Freakonomics: Jeremy Lin",
     "url": "https://traffic.omny.fm/d/clips/aaea4e69-af51-495e-afc9-a9760146922b/14a43378-edb2-49be-8511-ab0d000a7030/ae448ea4-281b-4b82-9f32-ab0d000d42b1/audio.mp3",
     "takeaways": "",
-    "datesAccessed": [""],
+    "lastAccessed": null,
     "keywords": ["Inspiration"]
   },
   {
@@ -84,7 +84,7 @@
     "title": "Shane Battier",
     "url": "https://download.ted.com/talks/WorkLifeS001E003_2018V.mp3?apikey=acme-roadrunner.mp3",
     "takeaways": "",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "11"
   },
   {
@@ -92,7 +92,7 @@
     "title": "Ira Glass on the Creative Process",
     "url": "https://www.youtube.com/watch?v=PbC4gqZGPSY",
     "takeaways": "",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "12"
   },
   {
@@ -100,7 +100,7 @@
     "title": "Hidden Brain: Fresh Starts",
     "url": "",
     "takeaways": "",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "13"
   },
   {
@@ -108,7 +108,7 @@
     "title": "Hidden Brain Smoke and Mirrors",
     "url": "",
     "takeaways": "",
-    "datesAccessed": ["Nov 5, 2019"],
+    "lastAccessed": "2019-11-05",
     "id": "14"
   },
   {
@@ -116,15 +116,15 @@
     "title": "Veritasium survivor bias",
     "url": "https://www.youtube.com/watch?v=_Qd3erAPI9w",
     "takeaways": "",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "15"
   },
   {
     "keywords": [],
     "title": "Veritasium: Learned Helplessness",
     "url": "https://www.youtube.com/watch?v=YMPzDiraNnA",
-    "takeaways": "",
-    "datesAccessed": ["Anything that’s worth doing is worth doing poorly"],
+    "takeaways": "Anything that’s worth doing is worth doing poorly",
+    "lastAccessed": null,
     "id": "16"
   },
   {
@@ -132,7 +132,7 @@
     "title": "Planet Money: #217: The Art of Living on the Poverty Line",
     "url": "",
     "takeaways": "",
-    "datesAccessed": ["2018-02"],
+    "lastAccessed": "2018-02-01",
     "id": "17"
   },
   {
@@ -140,7 +140,7 @@
     "title": "Vlogbrothers:Ai Wei Wei and Poetry Makes Nothing Happen",
     "url": "https://www.youtube.com/watch?v=nDwTjPsG4b0",
     "takeaways": "Hammering steel straight from collapsed schools\n\nVoice recording listing students who died\n 3 hours 41 mins",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "18"
   },
   {
@@ -148,7 +148,7 @@
     "title": "Vlogbrothers: Story of 2 Syrian Refugees",
     "url": "https://www.youtube.com/watch?v=8WSagdz-0Ac&index=4&list=PL9EF0C1C9A93295C5",
     "takeaways": "",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "19"
   },
   {
@@ -156,7 +156,7 @@
     "title": "Against the Rules: The Seven Minute Rule",
     "url": "https://dcs.megaphone.fm/DGT6566796581.mp3?key=4244c9d39b7fd725af7ab6bbd0b678ce.mp3",
     "takeaways": "",
-    "datesAccessed": ["2019-11-01"],
+    "lastAccessed": "2019-11-01",
     "keywords": []
   },
   {
@@ -164,7 +164,7 @@
     "takeaways": "",
     "title": "Invisibilia: Frame of Reference: Part 2: Hasan Minhaj",
     "url": "https://ondemand.npr.org/anon.npr-mp3/npr/invsb/2016/07/20160707_invsb_frame.mp3",
-    "datesAccessed": ["2020-04-10"],
+    "lastAccessed": "2020-04-10",
     "keywords": [],
     "__typename": "Link"
   },
@@ -173,7 +173,7 @@
     "title": "Importance of boredom",
     "url": "https://www.youtube.com/watch?v=LKPwKFigF8U",
     "takeaways": "Looking at your phone when bored is like shocking yourself",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "22"
   },
   {
@@ -181,7 +181,7 @@
     "title": "This is Water - David Foster Wallace",
     "url": "https://www.youtube.com/watch?v=8CrOL-ydFMI",
     "takeaways": "Really reminded me of meditative practices. Great advice, takes practice to follow",
-    "datesAccessed": ["2019-08"],
+    "lastAccessed": "2019-08",
     "id": "23"
   },
   {
@@ -189,7 +189,7 @@
     "title": "Hidden Brain: in the heat of the moment",
     "url": "",
     "takeaways": "Hot and cold states",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "24"
   },
   {
@@ -197,7 +197,7 @@
     "title": "Codebreaker: Season 2: The Augmented Self: Minute 22",
     "url": "",
     "takeaways": "Choreographed systems are choreographed so they can be efficient, not so they can be kind\n\n We only care about what we measure because we don’t know how to care about anything else\n\nDo you think that this technology saved you?\n\nI’m probably alive because of it. I think it’s probably saved me physically but it think it spiritually it bankrupted me\n\nHowever, maybe it’s possible to set your systems with the aim to maximize your well being, rather than productivity",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "25"
   },
   {
@@ -205,7 +205,7 @@
     "title": "Hidden Brain: Designing your life",
     "url": "",
     "takeaways": "",
-    "datesAccessed": ["2018-01"],
+    "lastAccessed": "2018-01",
     "id": "26"
   },
   {
@@ -213,7 +213,7 @@
     "title": "Hidden Brain: Tunnel Vision",
     "url": "",
     "takeaways": "",
-    "datesAccessed": ["2017-12, 2019-08"],
+    "lastAccessed": "2019-08-01",
     "id": "27"
   },
   {
@@ -221,7 +221,7 @@
     "title": "Hidden Brain: Regrets, I Have a Few…",
     "url": "https://play.podtrac.com/npr-510308/ondemand.npr.org/anon.npr-mp3/npr/hiddenbrain/2017/09/20170911_hiddenbrain_hb_ep_81__regrets__i_have_a_few.mp3?orgId=1&topicId=1007&aggIds=423302056&d=1825&story=550260750&siteplayer=true&dl=1.mp3",
     "takeaways": "",
-    "datesAccessed": ["2018-02"],
+    "lastAccessed": "2018-02",
     "keywords": []
   },
   {
@@ -229,7 +229,7 @@
     "title": "Radiolab: Unravelling Bolero",
     "url": "",
     "takeaways": "at the end it reminds me of Cornel West’s “I’ve been put on this earth and I choose to live a life of integrity, honesty, decency”",
-    "datesAccessed": ["2018-03-21"],
+    "lastAccessed": "2018-03-21",
     "id": "29"
   },
   {
@@ -237,7 +237,7 @@
     "title": "Radiolab: How to be a hero",
     "url": "",
     "takeaways": "",
-    "datesAccessed": ["2018-03-19"],
+    "lastAccessed": "2018-03-19",
     "id": "30"
   },
   {
@@ -245,7 +245,7 @@
     "title": "TVO Big Ideas: The Kite Runner",
     "url": "",
     "takeaways": "There is a way to be good again",
-    "datesAccessed": ["2019"],
+    "lastAccessed": "2019",
     "id": "31"
   },
   {
@@ -253,7 +253,7 @@
     "title": "CBC Ideas: Doing the right thing",
     "url": "",
     "takeaways": "",
-    "datesAccessed": ["2017"],
+    "lastAccessed": "2017",
     "id": "32"
   },
   {
@@ -261,7 +261,7 @@
     "title": "CBC Ideas: Brother West",
     "url": "",
     "takeaways": "Try again, fail again, fail better, \nwho are you going to be from mother’s womb to tomb?",
-    "datesAccessed": ["2018"],
+    "lastAccessed": "2018",
     "id": "33"
   },
   {
@@ -269,7 +269,7 @@
     "title": "Vlogbrothers: Russian Reversal",
     "url": "https://www.youtube.com/watch?v=-mrJkEwAmVA",
     "takeaways": "",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "34"
   },
   {
@@ -277,7 +277,7 @@
     "title": "Cappuccino Reconsidered (Planet Money) -",
     "url": "",
     "takeaways": "About how the complex problems of this new world doesn’t have simple solutions",
-    "datesAccessed": ["2018-02, 2019-09"],
+    "lastAccessed": "2019-09",
     "id": "35"
   },
   {
@@ -285,7 +285,7 @@
     "title": "Planet Money: When Luddites Attack",
     "url": "",
     "takeaways": "How The Luddites were justified in destroying machines\n\nit didn’t get better for everyone for at least 2 generations",
-    "datesAccessed": ["2018-02, 2019-09"],
+    "lastAccessed": "2019-09",
     "id": "36"
   },
   {
@@ -293,7 +293,7 @@
     "title": "Veritasium: Regression to the mean",
     "url": "https://www.youtube.com/watch?v=1tSqSMOyNFE",
     "takeaways": "",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "37"
   },
   {
@@ -301,7 +301,7 @@
     "title": "Veritasium: The spacious present",
     "url": "https://www.youtube.com/watch?v=K4vyRvMASPU",
     "takeaways": "",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "38"
   },
   {
@@ -309,7 +309,7 @@
     "title": "What you make of it",
     "url": "https://www.youtube.com/watch?v=HL4Vz-644GA",
     "takeaways": "“How you feel at your worst is not how you’ll always feel",
-    "datesAccessed": ["2019-09"],
+    "lastAccessed": "2019-09",
     "id": "40"
   },
   {
@@ -317,7 +317,7 @@
     "title": "Vlogbrothers: on pain",
     "url": "https://www.youtube.com/watch?v=Gxz-IBgeDHc",
     "takeaways": "",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "42"
   },
   {
@@ -325,7 +325,7 @@
     "title": "Vlogbrothers: On Motivation",
     "url": "https://www.youtube.com/watch?v=Gp-kra5kvQY",
     "takeaways": "",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "43"
   },
   {
@@ -333,7 +333,7 @@
     "title": "Vlogbrothers: On Punctuality",
     "url": "https://www.youtube.com/watch?v=dqgYnF4aygA",
     "takeaways": "",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "44"
   },
   {
@@ -341,7 +341,7 @@
     "title": "On Middle School Misery",
     "url": "https://www.youtube.com/watch?v=u90dGnKhhlk",
     "takeaways": "It's not about you.\n\n The only way out is through. You will get through.",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "45"
   },
   {
@@ -349,7 +349,7 @@
     "title": "Vlogbrothers: On Mattering",
     "url": "https://www.youtube.com/watch?v=p-5DX4XqtUI",
     "takeaways": "“Tonight, we feast on centuries of forgotten work",
-    "datesAccessed": ["2019-08-31"],
+    "lastAccessed": "2019-08-31",
     "id": "46"
   },
   {
@@ -357,7 +357,7 @@
     "title": "Invisibilia: The Pattern Problem",
     "url": "",
     "takeaways": "- this really reminded me of how random life is",
-    "datesAccessed": ["2018-04-01"],
+    "lastAccessed": "2018-04-01",
     "id": "47"
   },
   {
@@ -365,7 +365,7 @@
     "title": "What is NOT Random",
     "url": "https://www.youtube.com/watch?v=sMb00lz-IfE",
     "takeaways": "the nature of randomness",
-    "datesAccessed": ["2018-04-02"],
+    "lastAccessed": "2018-04-02",
     "id": "48"
   },
   {
@@ -373,7 +373,7 @@
     "title": "Invisibilia: A Secret History of Thoughts",
     "url": "https://edge2.pod.npr.org/anon.npr-podcasts/podcast/npr/invsb/2018/02/20180221_invsb_thoughts-fc9742fe-e422-45a0-87ac-b38db14603b0.mp3/20180221_invsb_thoughts-fc9742fe-e422-45a0-87ac-b38db14603b0.mp3_06d8d18f657e68b20d03a1c5db246aab_55533347.mp3?awCollectionId=510307&awEpisodeId=375981020&orgId=1&d=3446&p=510307&story=375981020&t=podcast&e=375981020&size=0&ft=pod&f=510307&hash_redirect=1&x-total-bytes=55533347&x-ais-classified=download&listeningSessionID=0CD_382_21__cf059dff0dc295cda951c6cc8e70e1e7e8f36e70.mp3",
     "takeaways": "- Thoughts are just synapses firing randomly. They don’t have to mean anything",
-    "datesAccessed": ["2018-01", "2018-04-01"],
+    "lastAccessed": "2018-04-01",
     "keywords": []
   },
   {
@@ -381,7 +381,7 @@
     "title": "How to become Batman",
     "url": "",
     "takeaways": "raising expectations can lead blind people to see\n\nIncrease their willingness to take risks",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "50"
   },
   {
@@ -389,7 +389,7 @@
     "title": "Vlogbrothers: What this picture doesn't show",
     "url": "https://www.youtube.com/watch?v=3AVNhTi9pzM",
     "takeaways": "3 farmers on their way to a dance",
-    "datesAccessed": ["2020-01"],
+    "lastAccessed": "2020-01",
     "id": "51"
   },
   {
@@ -397,7 +397,7 @@
     "title": "Hurry Slowly The Science of Sleep",
     "url": "https://hurryslowly.co/010-sigrid-veasey/",
     "takeaways": "Sleep inertia",
-    "datesAccessed": ["2020-01-17"],
+    "lastAccessed": "2020-01-17",
     "id": "53"
   },
   {
@@ -405,7 +405,7 @@
     "title": "Sandy Metz: Lucky You",
     "url": "https://www.youtube.com/watch?v=c5WWTvHB_sA",
     "takeaways": "",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "54"
   },
   {
@@ -413,7 +413,7 @@
     "title": "Sandy Metz: You are insufficiently persuasive",
     "url": "https://www.youtube.com/watch?v=VzWLGMtXflg",
     "takeaways": "",
-    "datesAccessed": [],
+    "lastAccessed": null,
     "id": "55"
   },
   {
@@ -421,7 +421,7 @@
     "title": "Revisionist History: Basement Tapes",
     "url": "",
     "takeaways": "What is a son's duty to a father's legacy?",
-    "datesAccessed": ["2020-01-18"],
+    "lastAccessed": "2020-01-18",
     "id": "56"
   },
   {
@@ -429,7 +429,7 @@
     "title": "Revisionist History: Burden of proof",
     "url": "",
     "takeaways": "Smoking, NFL: You should act before you have 100% proof",
-    "datesAccessed": ["2020-01-18"],
+    "lastAccessed": "2020-01-18",
     "id": "1"
   },
   {
@@ -437,7 +437,7 @@
     "title": "Hidden Brain: Forming Habits",
     "url": "https://play.podtrac.com/npr-510308/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hiddenbrain/2019/12/20191227_hiddenbrain_hb_pod_152_-_creatures_of_habit_-_dec_2019-aa58b2b4-85be-4b85-9218-75c6fc644625.mp3?awCollectionId=510308&awEpisodeId=787160734&orgId=1&topicId=1007&aggIds=423302056&d=3068&p=510308&story=787160734&t=podcast&e=787160734&size=48986949&ft=pod&f=510308",
     "takeaways": "Friction",
-    "datesAccessed": ["2020-01-18"],
+    "lastAccessed": "2020-01-18",
     "id": "60"
   },
   {
@@ -445,7 +445,7 @@
     "title": "Vlogbrothers: Productivity & the 80% Rule",
     "url": "https://www.youtube.com/watch?v=1LAhHDEtTD0",
     "takeaways": "Productivity",
-    "datesAccessed": ["2020-01-31"],
+    "lastAccessed": "2020-01-31",
     "id": "60"
   },
   {
@@ -454,7 +454,7 @@
     "title": "The power of mindfulness",
     "url": "https://www.youtube.com/watch?v=IeblJdB2-Vo",
     "keywords": [],
-    "datesAccessed": []
+    "lastAccessed": null
   },
   {
     "id": "asdflkjaskljs jdafjsldkfj",
@@ -462,7 +462,7 @@
     "title": "",
     "url": "https://www.youtube.com/watch?v=D38S9o_6qnc",
     "keywords": ["Compassion", "Gratitude"],
-    "datesAccessed": ["2020-02-05"]
+    "lastAccessed": "2020-02-05"
   },
   {
     "id": "e2d73e17-ec3f-4f61-b229-538443f980ef",
@@ -470,7 +470,7 @@
     "title": "Imagining",
     "url": "https://www.youtube.com/watch?v=q4LItOvKyjI",
     "keywords": [],
-    "datesAccessed": ["2020-03-22"]
+    "lastAccessed": "2020-03-22"
   },
   {
     "id": "e32eca1b-7796-4e0c-bae8-f6336421172b",
@@ -478,7 +478,7 @@
     "title": "Chiijohn",
     "url": "https://www.youtube.com/watch?v=xa0oY7LQmtg",
     "keywords": [],
-    "datesAccessed": ["2020-03-22"]
+    "lastAccessed": "2020-03-22"
   },
   {
     "id": "cb0e35c4-6d86-4729-8ca9-f739187e4648",
@@ -486,7 +486,7 @@
     "title": "The poop in my pants",
     "url": "https://www.youtube.com/watch?v=cHB_s970Uyw",
     "keywords": [],
-    "datesAccessed": ["2020-03-22"]
+    "lastAccessed": "2020-03-22"
   },
   {
     "id": "480c48a1-bb6e-488f-8c2d-e2e596f13e13",
@@ -494,6 +494,6 @@
     "title": "Imagining",
     "url": "https://www.youtube.com/watch?v=q4LItOvKyjI",
     "keywords": [],
-    "datesAccessed": ["2020-03-22"]
+    "lastAccessed": "2020-03-22"
   }
 ]
