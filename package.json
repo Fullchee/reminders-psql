@@ -34,7 +34,7 @@
     "graphql-import": "^1.0.2",
     "graphql-server-express": "^1.4.1",
     "graphql-tools": "^5.0.0",
-    "knex": "^0.21.1",
+    "knex": "^2.4.0",
     "pg": "^8.0.3",
     "pg-promise": "^10.5.2"
   }
